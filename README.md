@@ -7,10 +7,6 @@
 
 ### Hi there. I'm Kreshnaa
 
-<!--
-**khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/_kreshnaa)
