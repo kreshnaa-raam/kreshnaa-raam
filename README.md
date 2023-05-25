@@ -2,13 +2,12 @@
 
 ### Hi there. I'm Kreshnaa
 ![](https://img.shields.io/badge/release-v2.0--alpha-red)
-![](https://img.shields.io/badge/sleepyhead-yes-green)
+![](https://img.shields.io/badge/soccerhead-yes-green)
+![](https://img.shields.io/badge/pythonista-blue)
 
 - 🔭 I’m currently working as a Data Science Lead at [Zerve.ai](https://www.zerve.ai/)
 - 📚 I work on platform and product analytics - mostly using python data stack
-- 💬 How to reach me: 
-- [Twitter](https://twitter.com/_kreshnaa)
-- [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
+- 💬 How to reach me: [Twitter](https://twitter.com/_kreshnaa), [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
 
 
 <a href="https://github.com/cedrickring">
