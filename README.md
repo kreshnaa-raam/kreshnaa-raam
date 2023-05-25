@@ -19,9 +19,6 @@
 ![](https://api.githubtrends.io/user/svg/kreshnaa-raam/langs?time_range=one_year&include_private=True&theme=classic)
 
     
-### Packages I created
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=khuyentran1401&repo=data-science-template)]
-(https://github.com/Zerve-AI/pypelines)
 
 
 
