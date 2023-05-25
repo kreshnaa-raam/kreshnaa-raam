@@ -1,22 +1,22 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[1]: [Twitter](https://twitter.com/_kreshnaa)
-
-
-
 ### Hi there. I'm Kreshnaa
+![](https://img.shields.io/badge/release-v2.0--alpha-red)
+![](https://img.shields.io/badge/sleepyhead-yes-green)
 
-- Connect with me on:
-  - :office: [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
-  - [![alt text][1.2]][1][Twitter](https://twitter.com/_kreshnaa)
+- 🔭 I’m currently working as a Data Science Lead at [Zerve.ai](https://www.zerve.ai/)
+- 📚 I work on platform and product analytics - mostly using python data stack
+- 💬 How to reach me: 
+- [Twitter](https://twitter.com/_kreshnaa)
+- [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
 
 
-### Stats
-
-[![Kreshnaa's GitHub stats](https://github-readme-stats.vercel.app/api?username=kreshnaa-raam)](https://github.com/kreshnaa-raam/github-readme-stats)
-
-![](https://api.githubtrends.io/user/svg/kreshnaa-raam/langs?time_range=one_year&include_private=True&theme=classic)
+<a href="https://github.com/cedrickring">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kreshnaa-raam&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff&title_color=fff&line_height=26&hide_border=true&show_icons=true" />
+</a>
+<a href="https://github.com/cedrickring">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kreshnaa-raam&layout=compact&bg_color=30,e96443,904e95&text_color=fff&icon_color=fff&title_color=fff&hide_border=true&langs_count=4" />
+</a>
 
     
 
