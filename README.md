@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/pythonista-blue)
 
 - 🔭 I’m currently working as a Data Science Lead at [Zerve.ai](https://www.zerve.ai/)
-- 📚 I work on platform and product analytics - mostly using python data stack
+- 📚 Python Data Stack, R, Product Analytics
 - 💬 How to reach me: [Twitter](https://twitter.com/_kreshnaa), [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
 
 
