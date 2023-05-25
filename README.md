@@ -25,7 +25,7 @@
 
     
 ### Packages I created
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=khuyentran1401&repo=data-science-template)](https://github.com/khuyentran1401/data-science-template)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=khuyentran1401&repo=data-science-template)](https://github.com/kreshnaa-raam)
 
 
 
