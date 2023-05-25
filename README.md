@@ -11,7 +11,6 @@
 **khuyentran1401/khuyentran1401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🌱 I’m addicted to learning and growing every day
 - Connect with me on:
   - :office: [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
   - [![alt text][1.2]][1][Twitter](https://twitter.com/_kreshnaa)
