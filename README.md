@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working as a Data Science Lead at [Zerve.ai](https://www.zerve.ai/)
 - 📚 Python Data Stack, R, Product Analytics
-- I’m currently focusing on</b>: <a href="https://github.com/Zerve-AI/pypelines">pypelines</a>, ⭐️ show some love by starring the project 🤩.</li>
+- I’m currently working on</b>: <a href="https://github.com/Zerve-AI/pypelines">pypelines</a>, ⭐star the project to show some love or open a PR if you'd like to contribute 🤩.</li>
 - 💬 How to reach me: [Twitter](https://twitter.com/_kreshnaa), [LinkedIn](https://www.linkedin.com/in/kreshnaa/)
 
 
