@@ -11,8 +11,7 @@
 
 
 - I currently work as a Data Science Lead at [Zerve.ai](https://www.zerve.ai/). Do check out our [platform](https://app.zerve.ai/). 
-- Python Data Stack, R, Product Analytics
-- Tinkering around with LLMs, Langchain etc.
+- Python Data Stack, R, Product Analytics, LLMs, Language Agents
 
 
 
